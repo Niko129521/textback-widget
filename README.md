@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -6,8 +6,7 @@
     <title>Виджет Textback</title>
 </head>
 <body>
-    <h1>Добро пожаловать!</h1>
-    <p>Виджет Textback загружается...</p>
+    <h1>Тест перехода на вк сообщество!</h1>
 
     <!-- Код виджета Textback -->
     <script src="//cdn.jsdelivr.net/npm/@textback/notification-widget@latest/build/index.js"></script>
